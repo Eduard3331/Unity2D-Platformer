@@ -3,6 +3,7 @@
 A simple, single-level Unity platformer game.
 
 The whole Unity project is included here: https://mega.nz/file/uRVTGIqY#myGMF2Q7bEWsrdvXgmagEeq_cey-SUwuvB89wRRtdfg
+Credits for the assets used are found in this repository.
 ![image](https://github.com/user-attachments/assets/05bbf27d-8bbe-466d-a3be-cadcf6ad4b30)
 
 
